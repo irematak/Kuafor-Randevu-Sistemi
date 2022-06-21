@@ -20,7 +20,8 @@ Son olarak **Çıkış** butonuna tıklanarak oturum sonlandırılmaktadır ve k
 <img width="930" alt="kaydol" src="https://user-images.githubusercontent.com/75726319/174908246-2a4615b5-01b2-44b6-8eb9-4f75ef45036b.PNG">   
 <img width="960" alt="uyeGirisi" src="https://user-images.githubusercontent.com/75726319/174908485-a72484ae-723b-455e-8789-fbca2bea2e9f.PNG">   
 <img width="957" alt="Hesabım" src="https://user-images.githubusercontent.com/75726319/174908635-0b7553bc-029e-4627-9df1-615dceb9f31f.PNG">    
-<img width="946" alt="randevu" src="https://user-images.githubusercontent.com/75726319/174908762-fde95a5c-a20d-47e4-99b0-8f2489301a8f.PNG">   
+<img width="946" alt="randevu" src="https://user-images.githubusercontent.com/75726319/174908762-fde95a5c-a20d-47e4-99b0-8f2489301a8f.PNG">     
+<img width="946" alt="anaSayfa" src="https://user-images.githubusercontent.com/75726319/174908841-50cf7872-0fe8-4d63-9936-30baed2f9cdc.PNG">    
 
 
 
