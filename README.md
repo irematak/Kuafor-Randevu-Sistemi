@@ -6,7 +6,7 @@
 İlk olarak anasayfanın sağ üst köşesinde bulunan **Kaydol** butonuna tıklanmalıdır.   
 Kaydol butonuna tıklandıktan sonra açılan sayfada gerekli bilgiler doldurulup sayfanın alt kısmında bulunan **Kayıt** butonuna tıklanmalıdır.   
 Eğer bütün bilgiler girildiyse sayfanın altında başarıyla kaydolunduğuna dair bir mesaj çıkacaktır.   
-Kaydolunduktan sonra sayfanın üst kısmında bulunan **Üye Girişi** butonuna  tıklanıp açılan sayfada eposta ve şifre bilgilerini girerek oturumu başlatılmalıdır.   
+Kaydolunduktan sonra sayfanın üst kısmında bulunan **Üye Girişi** butonuna  tıklanıp açılan sayfada eposta ve şifre bilgilerini girerek oturum başlatılmalıdır.   
 Kullanıcı Üye Girişi butonuna tıkladıktan sonra  **Hesabım** sayfasına yönlendirilicektir.   
 Sayfanın üst kısmında bulunan **Saç**, **Tırnak**, **Makyaj** bölümlerine tıklandığı zaman randevu sayfasına yönlendirilecektir.   
 Randevu sayfasında bulunan **Hemen Randevu Al** butonuna tıklayarak randevu almış olunmaktadır.   
@@ -15,6 +15,9 @@ Hesabım sayfasında bulunan **Kisisel Bilgiler** butonuna tıklanınca sayfadak
 **Randevularım** butonuna tıklanınca Randevular adlı tabloda kullanıcının neye randevu aldığı bilgisi görülecektir. Randevu iptal edilmek istenirse randevu ismi tablonun altındaki textboxa örneğin **saç kesimi** şeklinde yazılmalıdır ve sonrasında **Randevu Sil** butonuna tıklanmalıdır. Tekradan randevularım butonuna tıklanıca var olan randevular gözükecektir.   
 **Yorumlarım** butonuna tıklanınca da anasayfada kullanıcının oturum açmış olduğu epostayı girerek gönderdiği yorumlar Yorumlar adlı tabloda gözükecektir.   
 Son olarak **Çıkış** butonuna tıklanarak oturum sonlandırılmaktadır ve kullanıcı oturum açma sayfasına yönlendirilmektedir.   
+
+
+
 
 
 
