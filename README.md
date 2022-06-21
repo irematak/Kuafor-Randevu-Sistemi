@@ -25,6 +25,11 @@ Son olarak **Çıkış** butonuna tıklanarak oturum sonlandırılmaktadır ve k
 
 ### Proje Kurulumu: 
 
+İlk olarak XAMPP kurulumu yapılıp xampp klasöründen xampp-control.exe tıklayarak Apache ve Mysql'i çalışmasını start butonuyla başlatın.
+Web tarayıcısına girip localhost:8080/phpmyadmin yazın.     
+Açılan sayfada SQL kısmına tıklayıp .sql uzantılı dosyadaki bilgileri yapıştırıp Git butonuna tıklayın bu şekilde veri tabanı oluşturulmuş olacaktır.   
+xampp klasörünün içindeki htdocs adlı klasöre .php uzantılı dosyaları ve .jpg ve .png uzantılı resimleri ekleyin.  
+
 
 
 
