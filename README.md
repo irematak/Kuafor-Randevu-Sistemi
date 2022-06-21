@@ -1,2 +1,4 @@
 # Kuafor-Randevu-Sistemi
-## PHP, MySQL, Html, BootStrap Kullanılarak hazırlanmış web tabanlı uygulama 
+## PHP, MySQL, Html, CSS ve BootStrap Kullanılarak Hazırlanmış Web Tabanlı Uygulama 
+
+
