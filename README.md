@@ -26,8 +26,10 @@ Son olarak **Çıkış** butonuna tıklanarak oturum sonlandırılmaktadır ve k
 ### Proje Kurulumu: 
 
 İlk olarak XAMPP kurulumu yapıp xampp klasöründen xampp-control.exe tıklayarak Apache ve Mysql'i  start butonuyla çalıştırıyoruz.    
-Web tarayıcısına girip localhost:8080/phpmyadmin yazdıktan sonra açılan sayfanın sol kısımda databaselerin bulunduğu sütunun üstünde bulunan yeni yazan yere tıklıyoruz ve Veri Tabanı Adı yazan kısma 389469 yazdıktan sonra oluştur butonuna tıklıyoruz ve oluşturulan database için üst kısımda bulunan importa tıklıyoruz.     
-Dosya Seç butonuna tıkladıktan sonra .sql uzantılı dosyayı seçiyoruz ve gite tıklıyoruz. Bu şekilde veri tabanı oluşturulmuş olacaktır.      
+Web tarayıcısına girip localhost:8080/phpmyadmin yazdıktan sonra açılan sayfanın sol kısımda databaselerin bulunduğu sütunun üstünde bulunan yeni yazan yere tıklıyoruz ve Veri Tabanı Adına 389469 yazdıktan sonra oluştur butonuna tıklıyoruz.  
+Oluşturulan database için üst kısımda bulunan importa tıklıyoruz.        
+Dosya Seç butonuna tıkladıktan sonra .sql uzantılı dosyayı seçiyoruz ve gite tıklıyoruz.  
+Bu şekilde veri tabanı oluşturulmuş olacaktır.      
 xampp klasörünün içindeki htdocs adlı klasöre .php uzantılı dosyaları ve .jpg ve .png uzantılı resimleri ekliyoruz.    
 Tarayıcıda localhost:8080/index.php yazarak web sitemizin anasayfayasına giriyoruz.    
 
